@@ -11,3 +11,6 @@
 
 ## Dataset
 [Kaggle](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)
+
+## Presentación
+[Google Slides](https://docs.google.com/presentation/d/1ojYp0rCtxf-mTPZJFNEiaEZ771R32g9AuT_e8jaHtUk/)
